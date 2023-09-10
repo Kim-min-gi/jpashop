@@ -8,10 +8,10 @@ public class JpashopApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(JpashopApplication.class, args);
-        Hello hello = new Hello();
-        hello.setDkanrjsk("hge");
-        String data = hello.getDkanrjsk();
-        System.out.println("data = " + data);
+//        Hello hello = new Hello();
+//        hello.setDkanrjsk("hge");
+//        String data = hello.getDkanrjsk();
+//        System.out.println("data = " + data);
     }
 
 }
